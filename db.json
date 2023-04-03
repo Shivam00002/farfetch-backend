@@ -3,12 +3,12 @@
     { "id": 1, "firstname": "shivam", "lastname": "dubey" , "email" : "dubey02shiv@gmail.com" , "password" : "12345"}
   ],
   "mens": [
-    { "_id": 1, "title": "clothe", "img_url": "dfhgedhgfehgbrth" ,"category" : "men" , "detail" : "ok done" , "price" : 500}
+    { "id": 1, "title": "clothe", "img_url": "dfhgedhgfehgbrth" ,"category" : "men" , "detail" : "ok done" , "price" : 500}
   ],
   "womens": [
-    { "_id": 1, "title": "clothe", "img_url": "dfhgedhgfehgbrth" ,"category" : "women" , "detail" : "ok done" , "price" : 500}
+    { "id": 1, "title": "clothe", "img_url": "dfhgedhgfehgbrth" ,"category" : "women" , "detail" : "ok done" , "price" : 500}
   ],
   "kids": [
-    { "_id": 1, "title": "clothe", "img_url": "dfhgedhgfehgbrth" ,"category" : "kids" , "detail" : "ok done" , "price" : 500}
+    { "id": 1, "title": "clothe", "img_url": "dfhgedhgfehgbrth" ,"category" : "kids" , "detail" : "ok done" , "price" : 500}
   ]
 }
